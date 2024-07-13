@@ -11,22 +11,17 @@ function App() {
         <div className="logo">
           <img src="./img/Logo.png" alt="LOGO" />
         </div>
-
         <div className="input">
           <input type="text" placeholder="Cari apapun disini..." />
         </div>
-
         <div className="translate">
           <img src="./img/header.png" alt="translate" />
         </div>
-
         <div className="location">
           <img src="./img/headerr.png" alt="location" />
         </div>
       </div>
-
       <hr />
-
       <div className="selector">
         <div className="parama">
           <p>Gunung</p>
@@ -38,73 +33,59 @@ function App() {
           <p>Romantis</p>
           <p>Alam</p>
         </div>
-
         <div className="trash">
           <img src="./img/Buttons.png" alt="buttons"/>
         </div>
       </div>
-
       <div className="hero">
-
         <div className="text">
           <h3>✈ • Explore the wonderful indonesia!</h3>
-
           <h1>Liburan & nikmati <br />
               <span>tempat baru</span> di <br />
               indonesia  ️🏝
           </h1>
-
           <p>Destinize membuat kamu selalu update terkait tempat liburan <br />
              baru di Indonesia dengan mengikuti perkembangan para <br />
              influencer di sosial media ✨
           </p>
-
           <div className="btns">
             <button>Mulai sekarang →</button>
             <button id='putar'>Putar Demo</button>
           </div>
         </div>
-
         <div className="picture">
           <img src="./img/main.png" alt="main img" />
         </div>
       </div>
-
       <div className="sponsor">
-        <img src="./img/1sp.png" alt="sponnsor" />
-        <img src="./img/2sp.png" alt="sponsor" />
-        <img src="./img/3sp.png" alt="sponsor" />
-        <img src="./img/4sp.png" alt="sponsor" />
-        <img src="./img/5sp.png" alt="sponsor" />
+        <img src="./img/1sp.png" alt="" />
+        <img src="./img/2sp.png" alt="" />
+        <img src="./img/3sp.png" alt="" />
+        <img src="./img/4sp.png" alt="" />
+        <img src="./img/5sp.png" alt="" />
       </div>
-
       <div className="favorit">
         <p>DESTINASI FAVORIT</p>
-
         <div className="air">
            <h1>✈ • Temukan Destinasi Favoritmu</h1>
            <p>Lihat semua o </p>
         </div>
-
         <div className="carts">
         <div className="cart">
           <img src="./img/1p.png" alt="photo" />
           <p>Raja Ampat</p>
           <span>Bali</span>
         </div>
-
         <div className="cart">
           <img src="./img/2p.png" alt="photo" />
           <p>Labuan Bajo</p>
           <span>NTT</span>
         </div>
-
         <div className="cart">
           <img src="./img/3p.png" alt="photo" />
           <p>Kawah ljen</p>
           <span>Jawa Timur</span>
         </div>
-
         <div className="cart">
           <img src="./img/4p.png" alt="photo" />
           <p>Bromo</p>
@@ -112,12 +93,10 @@ function App() {
         </div>
         </div>
       </div>
-
       <div className="tempat">
         <div className="textTemp">
         <p className='reser'>RESERVASI TEMPAT</p>
         <h1>Gak mau ngantri? <br /> reservasi aja! 🤙🏻</h1>
-
         <div className="gak">
           <img src="./img/gak1.png" alt="gak" />
           <div className="about">
@@ -127,7 +106,6 @@ function App() {
              </p>
           </div>
         </div>
-
         <div className="gak">
           <img src="./img/gak2.png" alt="gak" />
           <div className="about">
@@ -137,7 +115,6 @@ function App() {
              </p>
           </div>
         </div>
-
         <div className="gak">
           <img src="./img/gak3.png" alt="gak" />
           <div className="about">

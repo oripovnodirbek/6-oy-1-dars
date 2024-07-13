@@ -3,29 +3,24 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
-
-.container {
-  max-width: 1920px;
-  height: 100%;
-  padding: 15px 80px ;
-}
-
 .header {
   display: flex;
   gap: 20px;
   align-items: center;
   margin-bottom: 10px;
 }
-
+.container {
+  max-width: 1920px;
+  height: 100%;
+  padding: 15px 80px ;
+}
 .logo img {
   width: 140px;
   cursor: pointer;
 }
-
 .input input {
   width: 530px;
   height: 48px;
@@ -37,13 +32,11 @@ body {
   margin-left: 100px;
   cursor: pointer;
 }
-
 .translate img {
   width: 167px;
   margin-left: 40px;
   cursor: pointer;
 }
-
 .location img {
   width: 258px;
   margin-left: 50px;
