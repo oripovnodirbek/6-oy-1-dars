@@ -6,6 +6,17 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+.input input {
+  width: 530px;
+  height: 48px;
+  font-size: 16px;
+  padding-left: 20px;
+  background-color: #F0F1F2;
+  border-radius: 50px;
+  border: 1px solid #F0F1F2;
+  margin-left: 100px;
+  cursor: pointer;
+}
 .header {
   display: flex;
   gap: 20px;
@@ -21,17 +32,7 @@ body {
   width: 140px;
   cursor: pointer;
 }
-.input input {
-  width: 530px;
-  height: 48px;
-  font-size: 16px;
-  padding-left: 20px;
-  background-color: #F0F1F2;
-  border-radius: 50px;
-  border: 1px solid #F0F1F2;
-  margin-left: 100px;
-  cursor: pointer;
-}
+
 .translate img {
   width: 167px;
   margin-left: 40px;
